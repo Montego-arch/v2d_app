@@ -214,7 +214,7 @@ app_license = "mit"
 # ]
 
 # Authentication and authorization
-# --------------------------------
+# ----------------------------------
 
 # auth_hooks = [
 #	"v2d_app.auth.validate"
