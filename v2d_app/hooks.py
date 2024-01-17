@@ -228,6 +228,6 @@ app_license = "mit"
 # }
 
 fixtures = [
-    "Customer Choice Details",
+    "Customer Choice",
 ]
 
