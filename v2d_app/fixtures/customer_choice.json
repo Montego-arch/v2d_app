@@ -1,0 +1,37 @@
+[
+ {
+  "choice": "Home Automation",
+  "docstatus": 0,
+  "doctype": "Customer Choice",
+  "modified": "2024-01-17 10:43:09.151859",
+  "name": "Home Automation"
+ },
+ {
+  "choice": "Surveillance",
+  "docstatus": 0,
+  "doctype": "Customer Choice",
+  "modified": "2024-01-17 10:43:43.641098",
+  "name": "Surveillance"
+ },
+ {
+  "choice": "Access Control",
+  "docstatus": 0,
+  "doctype": "Customer Choice",
+  "modified": "2024-01-17 10:43:56.493702",
+  "name": "Access Control"
+ },
+ {
+  "choice": "Voice",
+  "docstatus": 0,
+  "doctype": "Customer Choice",
+  "modified": "2024-01-17 10:44:06.261004",
+  "name": "Voice"
+ },
+ {
+  "choice": "IT Support",
+  "docstatus": 0,
+  "doctype": "Customer Choice",
+  "modified": "2024-01-17 10:44:16.917621",
+  "name": "IT Support"
+ }
+]
