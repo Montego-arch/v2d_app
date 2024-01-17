@@ -39,7 +39,7 @@ app_license = "mit"
 # app_include_icons = "v2d_app/public/icons.svg"
 
 # Home Pages
-# ----------
+# -----------
 
 # application home page (will override Website Settings)
 # home_page = "login"
